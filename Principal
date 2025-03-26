@@ -1,0 +1,3 @@
+# Procesamiennto de una señal electromiografica asociada a la fatiga muscular.
+## Introducción
+La electromiografia (EMG) mide y analiza la actividad electrica de los musculos, la cual es informacion importante en el diagnosticos y monitoreo de diferentes condiciones neuromusculares. Por medio de este laboratorio, se realizo la captura de la señal EMG emitida por el musculo del antebrazo, por medio de la colocacion de electrodos. Posterior a este proceso, se procesaron las señales para detectar cuando se evidenciaba la fatiga muscular, por medio de tecnicas de filtrado, analisis espectral, los cuales permitieron observar la evolucion de la señal en el tiempo.
